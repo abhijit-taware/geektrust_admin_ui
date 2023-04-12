@@ -1,0 +1,12 @@
+.search {
+    width: 80vw;
+    padding: 1vh 0 1vh 1vw;
+    margin-bottom: 1vh;
+  }
+
+  .dashboard {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 0.9em;
+  }
+  
